@@ -1,0 +1,27 @@
+body {
+    background-image: url("IMG_2027.JPG");
+}
+
+button,
+div,
+form,
+input {
+    margin: 10px;
+}
+
+#gif-output {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    width: 100%;
+}
+
+.gif {
+    margin: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+ß
